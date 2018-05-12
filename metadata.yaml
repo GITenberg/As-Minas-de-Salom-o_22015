@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/365
     wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
 description: This ebook uses 19th century spelling.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22015#As-Minas-de-Salom-o
 gutenberg_bookshelf: PT Infantil e Juvenil
 gutenberg_issued: '2007-07-07'
 gutenberg_type: Text
